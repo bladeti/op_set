@@ -1,2 +1,2 @@
 # 220306
-**shadowsocksr-libev**  编译失败，默认取消
+**shadowsocksr-libev**  Cannot be compiled, so it is cancelled by default
